@@ -1,4 +1,3 @@
-```markdown:e:\Ai ProjT1\LawBot\README.md
 <div align="center">
 
 # 🤖 LawBot
@@ -107,4 +106,3 @@ MIT License - See LICENSE file
 Made with ❤️ for the legal community
 
 </div>
-```
