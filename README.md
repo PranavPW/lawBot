@@ -1,3 +1,4 @@
+```markdown:e:\Ai ProjT1\LawBot\README.md
 <div align="center">
 
 # 🤖 LawBot
@@ -48,20 +49,23 @@ LawBot leverages cutting-edge AI technology to provide accessible legal assistan
 ## 🛠️ Quick Start
 
 1. **Clone & Install**
-```bash
-git clone https://github.com/PranavPW/lawBot.git
-cd lawBot
-npm install
-```
+   ```bash
+   git clone https://github.com/PranavPW/lawBot.git
+   cd lawBot
+   npm install
+   ```
 
 2. **Launch Development Server**
-```bash
-npm run dev
+   ```bash
+   npm run dev
+   ```
 
-3. Visit http://localhost:3000 in your browser.```
+3. **Access the Application**
+   Open [http://localhost:3000](http://localhost:3000) in your browser
 
-Project Architecture
+## 📁 Project Architecture
 
+```
 lawBot/
 ├── src/
 │   ├── app/
@@ -70,23 +74,37 @@ lawBot/
 │   ├── services/       # Core functionality
 │   └── contexts/       # State management
 └── public/            # Static assets
+```
 
 ## 🔐 Security First
-- Client-side encryption for all messages
-- Secure key generation & management
-- Protected local storage implementation
-## 🌟 Premium Features
-- Case outcome prediction
-- In-depth legal analysis
-- Extended history retention
-- Priority processing
-## 🤝 Contributing
-We welcome contributions! Feel free to:
 
-- Submit issues
-- Propose new features
-- Create pull requests
+- **Client-side encryption** for all messages
+- **Secure key generation** & management
+- **Protected local storage** implementation
+
+## 🌟 Premium Features
+
+- **Case outcome prediction** with AI analysis
+- **In-depth legal analysis** of cases
+- **Extended history retention** for reference
+- **Priority processing** for premium users
+
+## 🤝 Contributing
+
+We welcome contributions! Feel free to:
+- **Submit issues** for bugs or suggestions
+- **Propose new features** for enhancement
+- **Create pull requests** to improve the codebase
+
 ## 📜 License
+
 MIT License - See LICENSE file
 
+---
+
+<div align="center">
+
 Made with ❤️ for the legal community
+
+</div>
+```
